@@ -1,0 +1,5 @@
+10001>tp068222>Pang Wai Hong>Male>Superior Single Room>08082023>08092023>Declined>Done>1500
+10002>tp068320>Dayna Chan Xin Jie>Female>Superior Single Room>08092023>08102023>Approved>Done>1500
+10003>tp068456>Pang Wai Hong>Male>Twin Sharing Room>08112023>08122023>Declined>Pending>1000
+10004>tp068320>Dayna Chan Xin Jie>Female>Superior Single Room>05062023>05072023>Pending>Pending>1500
+10005>tp068562>Kho Kai Hong>Male>Superior Single Room>05092023>05102023>Pending>Done>1500
